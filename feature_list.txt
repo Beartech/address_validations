@@ -1,0 +1,6 @@
+Address Validation Gem
+
+  1)Accepts a list of addresses, one address per line
+  2)provides a regexp based address validation using settings stored in a config file
+  3)can output lists of valid addresses or invalid addresses
+  4)can convert a list of addresses in one format (current ValleyCom format) to a new format
